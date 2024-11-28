@@ -1,0 +1,35 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+*.dylib
+*.egg-info/
+dist/
+build/
+*.env
+*.venv
+*.venv.bak
+*.virtualenv
+*.virtualenv.bak
+Pipfile.lock
+
+# Django
+*.log
+*.sqlite3
+db.sqlite3
+media/
+static/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
